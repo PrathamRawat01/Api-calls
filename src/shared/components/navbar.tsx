@@ -51,8 +51,8 @@ export function Navbar() {
                         </li>
                     </ul>
                     <div className="flex items-center mx-3 mb-3">
-                        <a href="/contact-us" className="w-full text-center text-button border-button border-2 py-2 px-4 rounded-md hover:scale-110 transition duration-300">
-                            Book A Free Consultation →
+                        <a href="https://reqres.in/" className="w-full text-center text-button border-button border-2 py-2 px-4 rounded-md hover:scale-110 transition duration-300">
+                            Reqres →
                         </a>
                     </div>
                 </div>
