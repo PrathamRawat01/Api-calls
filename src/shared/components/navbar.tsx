@@ -14,7 +14,7 @@ export function Navbar() {
 
                 <div className="hidden md:flex flex-row gap-28">
                     <div className="hover:scale-110 hover:text-button">
-                        <button className="text-[17px] font-bold">Profile</button>
+                        <button className="text-[17px] font-bold">Home</button>
                     </div>
                     <div className="hover:scale-110 hover:text-button">
                         <button className="text-[17px] font-bold">Demo 1</button>
@@ -41,7 +41,7 @@ export function Navbar() {
                 <div className="fixed top-20 left-0 w-full bg-background-con bg-opacity-80 backdrop-blur-md shadow-lg z-10">
                     <ul className="flex flex-col items-start font-thin text-xl text-text-primary space-y-4 py-4 ml-5">
                         <li>
-                            <button className="text-lg font-bold">Profile</button>
+                            <button className="text-lg font-bold">Home</button>
                         </li>
                         <li>
                             <button className="text-lg font-bold">Demo 1</button>
